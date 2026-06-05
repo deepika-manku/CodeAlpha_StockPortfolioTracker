@@ -38,36 +38,33 @@ The Stock Portfolio Tracker allows users to enter stock symbols and quantities, 
 | MSFT         | 330       |
 | AMZN         | 200       |
 
+## Repository Link
+
+https://github.com/deepika-manku/CodeAlpha_StockPortfolioTracker
+
 ## How to Run
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-link>
-   ```
+git clone https://github.com/deepika-manku/CodeAlpha_StockPortfolioTracker.git
 
 2. Navigate to the project folder:
 
-   ```bash
-   cd CodeAlpha_StockPortfolioTracker
-   ```
+cd CodeAlpha_StockPortfolioTracker
 
-3. Run the program:
+3. Run the Python file:
 
-   ```bash
-   python stock_portfolio_tracker.py
-   ```
+python CodeAlpha_StockPortfolioTracker.py
 
 ## Sample Output
 
-```text
 ===== PORTFOLIO SUMMARY =====
 
 AAPL - 2 shares × $180 = $360
+
 TSLA - 3 shares × $250 = $750
 
 Total Portfolio Value = $1110
-```
 
 ## Learning Outcomes
 
