@@ -1,0 +1,7 @@
+STOCK PORTFOLIO SUMMARY
+=========================
+AMZN - 5 shares x $200 = $1000
+MSFT - 8 shares x $330 = $2640
+AAPL - 9 shares x $180 = $1620
+
+Total Portfolio Value = $5260
